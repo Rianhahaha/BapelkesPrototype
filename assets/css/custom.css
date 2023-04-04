@@ -2,12 +2,12 @@
    margin-top: 5rem!important; 
 }
 
-.bg-blur {
+.bg-blaur {
     background:
     rgba(0, 131, 116, 0.522) !important;
     backdrop-filter: blur(20px);
 }
-.bg-blur:hover {
+.bg-bluar:hover {
     transition: all 0.3s ease-in-out;
     background: var(--color-primary)!important;
 }
